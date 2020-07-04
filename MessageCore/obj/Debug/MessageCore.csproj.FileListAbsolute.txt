@@ -1,0 +1,7 @@
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageCore\bin\Debug\MessageCore.dll
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageCore\bin\Debug\MessageCore.pdb
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageCore\bin\Debug\Logger.dll
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageCore\bin\Debug\Logger.pdb
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageCore\obj\Debug\MessageCore.csprojResolveAssemblyReference.cache
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageCore\obj\Debug\MessageCore.dll
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageCore\obj\Debug\MessageCore.pdb

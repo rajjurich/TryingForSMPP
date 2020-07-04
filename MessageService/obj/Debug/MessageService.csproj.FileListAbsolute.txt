@@ -1,0 +1,10 @@
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\bin\Debug\MessageService.exe.config
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\bin\Debug\MessageService.exe
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\bin\Debug\MessageService.pdb
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\bin\Debug\MessageCore.dll
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\bin\Debug\Logger.dll
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\bin\Debug\MessageCore.pdb
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\bin\Debug\Logger.pdb
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\obj\Debug\MessageService.csprojResolveAssemblyReference.cache
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\obj\Debug\MessageService.exe
+C:\Users\Rajneesh\Google Drive\PROJECTS\Achalraj\MessageService\obj\Debug\MessageService.pdb

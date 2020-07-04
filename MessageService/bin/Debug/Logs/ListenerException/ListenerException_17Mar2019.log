@@ -1,0 +1,5 @@
+17-Mar-2019 11:40:14.422 AMStartListening : System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at MessageCore.AsynchronousSocketListener.StartListening()
+
